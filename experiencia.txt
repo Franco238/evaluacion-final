@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Experiencia</title>
+  </head>
+  <body>
+    <svg
+       xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:cc="http://creativecommons.org/ns#"
+       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+       xmlns:svg="http://www.w3.org/2000/svg"
+       xmlns="http://www.w3.org/2000/svg"
+       xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+       xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+       width="87mm"
+       height="72mm"
+       viewBox="0 0 87 72"
+       version="1.1"
+       id="svg8"
+       inkscape:version="0.92.3 (2405546, 2018-03-11)"
+       sodipodi:docname="RECT.svg">
+      <defs
+         id="defs2" />
+      <sodipodi:namedview
+         id="base"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageopacity="0.0"
+         inkscape:pageshadow="2"
+         inkscape:zoom="0.38144097"
+         inkscape:cx="-352.98034"
+         inkscape:cy="540.46775"
+         inkscape:document-units="mm"
+         inkscape:current-layer="layer1"
+         showgrid="false"
+         inkscape:window-width="1366"
+         inkscape:window-height="705"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         showguides="false" />
+      <metadata
+         id="metadata5">
+        <rdf:RDF>
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title></dc:title>
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+      <g
+         inkscape:label="Capa 1"
+         inkscape:groupmode="layer"
+         id="layer1"
+         transform="translate(0,-225)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.98778176px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07469454"
+           x="22.954184"
+           y="252.3138"
+           id="text14"
+           transform="scale(1.0157802,0.98446494)"><tspan
+             sodipodi:role="line"
+             id="tspan12"
+             x="22.954184"
+             y="252.3138"
+             style="font-size:7.17067671px;stroke-width:0.07469454">Franco Duek</tspan></text>
+        <path
+           sodipodi:type="star"
+           id="path10"
+           sodipodi:sides="5"
+           sodipodi:cx="98.265182"
+           sodipodi:cy="180.81367"
+           sodipodi:r1="57.913055"
+           sodipodi:r2="30.792885"
+           sodipodi:arg1="0.94295973"
+           sodipodi:arg2="1.5712782"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 132.28304,227.68272 -34.032696,-16.07616 -34.048177,16.04335 4.77266,-37.33482 -25.779602,-27.42408 36.98236,-6.99802 18.115508,-32.99236 18.083697,33.0098 36.9756,7.03367 -25.80602,27.39921 z"
+           inkscape:transform-center-x="0.52465877"
+           inkscape:transform-center-y="-1.1432844"
+           style="stroke-width:0.26458332"
+           transform="matrix(0.28676503,0,0,0.27792439,16.596203,219.846)" />
+      </g>
+    </svg>
+</svg>
+      <h1> Hoja De vida </h1>
+     <h2> Franco Duek </h2>
+      <h3> 23/08/1998 en Buenos Aires, Argentina </h3>
+       <p>
+        <ul>
+         <li><a href="final.html">Inicio</a></li>
+         <li><a href="educacion.html">Educacion</a></li>
+         <li><a href="experiencia.html">Experiencia</a></li>
+        </ul>
+      </p>
+      <h2>Experiencia</h2>
+      <h3>Mi vida profesional</h3>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/WBFaglEgw_U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>"
+      <h2>Mis pasiones</h2>
+
+      <footer>
+        <h4>Email:<a href="mailto:francoduek@gmail.com">francoduek@gmail.com</a></h4>
+        <h4>Direccion: Buenos Aires, Argentina</h4>
+        <h4>telefono: 1112345678 </h4>
+      </footer>
+  </body>
+</html>
